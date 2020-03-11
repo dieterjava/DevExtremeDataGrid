@@ -1,2 +1,0 @@
-# DevExtremeDataGrid
-Created with CodeSandbox
